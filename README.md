@@ -76,7 +76,8 @@ Arquitectura integral de seguridad y nodo de red privado desplegado en VPS Linux
 ### 🧰 Utilidades CLI & Automatización SysOps
 Herramientas ligeras de cero dependencias diseñadas para operar instancias cloud con recursos ajustados:
 
-🧹 D[skwap Guardian CLI](https://github.com/LadyKernel/MyIronGuard/tree/main/dskwap-guardian): Utilidad en Bash para auditoría preventiva de almacenamiento raíz (/) y memoria SWAP. Simula el espacio recuperable antes de actuar, envía alertas detalladas a Telegram con el comando listo para ejecutar (--limpiar) y realiza mantenimiento seguro (truncado de logs activos sin romper descriptores, rotación de journald y limpieza de caché apt) con auditoría local autorrotativa.🧰 Utilidades CLI & Automatización SysOps
+🧹 [Dskwap Guardian CLI](https://github.com/LadyKernel/MyIronGuard/tree/main/dskwap-guardian): Utilidad en Bash para auditoría preventiva de almacenamiento raíz (/) y memoria SWAP. Simula el espacio recuperable antes de actuar, envía alertas detalladas a Telegram con el comando listo para ejecutar (--limpiar) y realiza mantenimiento seguro (truncado de logs activos sin romper descriptores, rotación de journald y limpieza de caché apt) con auditoría local autorrotativa.
+
 
 ---
 
